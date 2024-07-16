@@ -11,3 +11,9 @@ function say_hello() {
     console.log("Hello, World!")
 }
 ```
+
+# But we never called the function!
+
+```code
+say_hello();
+```
